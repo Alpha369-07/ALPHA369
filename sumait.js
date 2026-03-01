@@ -1,0 +1,11 @@
+<form action="https://formsubmit.co/alpha369.india@gmail.com" method="POST">
+
+    <input type="text" name="name" placeholder="Your Name" required><br><br>
+
+        <input type="email" name="email" placeholder="Your Email" required><br><br>
+
+            <textarea name="message" placeholder="Your Message" required></textarea><br><br>
+
+                <button type="submit">Send Message</button>
+
+            </form>
